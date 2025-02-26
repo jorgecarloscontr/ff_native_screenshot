@@ -1,5 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.fluttercandies.plugins.ff_native_screenshot">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
       <application
         android:requestLegacyExternalStorage="true"
         ></application>
